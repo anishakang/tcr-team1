@@ -7,10 +7,10 @@ import imutils
 import time
 
 class Video(object):
- def _init_(self):
+ def __init__(self):
         self.vs= WebcamVideoStream(src=0).start()
 
- def _del_(self):
+ def __del__(self):
         self.vs.stop()
 
  def detector(self):
