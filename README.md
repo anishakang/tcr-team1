@@ -1,6 +1,6 @@
 # CSE Team 1 Task 1 repository
 
-###### **_AIM:_** 
+###### **_Aim:_** 
 To create a system that will take a visual input from the environment, process it, present it to the user and give a tangible output
 
 
